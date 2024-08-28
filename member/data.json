@@ -1,1 +1,14 @@
-
+{
+  "users": [
+    {
+      "nohp": "122",
+      "ign": "kinda",
+      "role": "member"
+    },
+    {
+      "nohp": "12",
+      "ign": "juju",
+      "role": "member"
+    }
+  ]
+}
